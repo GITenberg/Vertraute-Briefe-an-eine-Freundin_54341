@@ -1,11 +1,16 @@
 _repo: Vertraute-Briefe-an-eine-Freundin_54341
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 54341-h/images/cover.jpg
 creator:
   author:
     agent_name: Garve, Christian
     gutenberg_agent_id: '47831'
     url: http://www.gutenberg.org/2009/agents/47831
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54341#Vertraute-Briefe-an-eine-Freundin
 gutenberg_issued: '2017-03-11'
 gutenberg_type: Text
 identifiers:
